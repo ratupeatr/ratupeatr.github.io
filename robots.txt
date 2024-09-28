@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ratupeatr.github.io/sitemap.html.gz
+Sitemap: https://ratupeatr.github.io/app/sitemap.html.gz
+Sitemap: https://ratupeatr.github.io/assets/sitemap.html.gz
+Sitemap: https://ratupeatr.github.io/css/sitemap.html.gz
+Sitemap: https://ratupeatr.github.io/data/sitemap.html.gz
+Sitemap: https://ratupeatr.github.io/includes/sitemap.html.gz
+Sitemap: https://ratupeatr.github.io/item/sitemap.html.gz
+Sitemap: https://ratupeatr.github.io/src/sitemap.html.gz
